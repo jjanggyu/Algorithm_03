@@ -32,7 +32,7 @@
 <img width="993" alt="model2_test_step" src="https://user-images.githubusercontent.com/59885351/83568204-be366980-a55d-11ea-9ccf-507e4bfbc47f.png">
 
 ### 4. Images and corresponding probability that are prediected right
-4. <img width="385" alt="model2_prediction" src="https://user-images.githubusercontent.com/59885351/83568216-c4c4e100-a55d-11ea-9966-62ccf3189948.png">
+<img width="385" alt="model2_prediction" src="https://user-images.githubusercontent.com/59885351/83568216-c4c4e100-a55d-11ea-9966-62ccf3189948.png">
 
 ### 5. Images and corresponding probability that are predicted wrong
 <img width="984" alt="model2_result" src="https://user-images.githubusercontent.com/59885351/83568232-cabac200-a55d-11ea-81c6-627a41b93905.png">

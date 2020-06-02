@@ -15,7 +15,11 @@
 ### 5. Images and corresponding probability that are predicted wrong
 <img width="987" alt="model1_result" src="https://user-images.githubusercontent.com/59885351/83568001-74e61a00-a55d-11ea-80c5-b96545c73503.png">
 
+
+
 - - -
+
+
 
 ## MODEL 2
 ### 1. What Model I used
@@ -33,7 +37,11 @@
 ### 5. Images and corresponding probability that are predicted wrong
 <img width="984" alt="model2_result" src="https://user-images.githubusercontent.com/59885351/83568232-cabac200-a55d-11ea-81c6-627a41b93905.png">
 
+
+
 - - -
+
+
 
 ## MODEL 3
 ### 1. What Model I used
